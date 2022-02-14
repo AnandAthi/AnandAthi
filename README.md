@@ -3,7 +3,7 @@
 - 🗣️ Ask me about `Gosu`, `Java` and Clean Code
 - 🌱 I’m currently learning `NodeJS`, `React` and `Spring Boot` to become a full stack web developer
 - ☁️ I also work on `Docker`and cloud native webapp and modern API development using microservices in my spare time. 🚀  
-- 📫 [LinkedIn](www.linkedin.com/in/anandathinarayanan), [Email](mailto:anand.a8807@gmail.com)
+- 📫 [LinkedIn](https://www.linkedin.com/in/anandathinarayanan), [Email](mailto:anand.a8807@gmail.com)
 
 <!---
 AnandAthi/AnandAthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
