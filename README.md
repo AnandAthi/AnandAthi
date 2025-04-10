@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand
-- 💻 I work as a Guidewire Developer in GFT 
+- 💻 I work as a Guidewire Consultant
 - 🗣️ Ask me about `Gosu`, `Java` and Clean Code
 - 🌱 I’m currently learning `NodeJS`, `React` and `Spring Boot` to become a full stack web developer
 - ☁️ I also work on `Docker`and cloud native webapp and modern API development using microservices in my spare time. 🚀  
